@@ -2,7 +2,7 @@
 
 A beautiful, interactive web application for converting between different units of measurement with real-time results and animated UI elements.
 
-![Unit Converter App](https://i.imgur.com/placeholder.png) <!-- Replace with actual screenshot when available -->
+![Unit Converter App](Unit Convertor.png) 
 
 ## ✨ Features
 
